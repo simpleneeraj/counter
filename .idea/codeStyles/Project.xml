@@ -1,0 +1,14 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <Python>
+      <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
+    </Python>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>

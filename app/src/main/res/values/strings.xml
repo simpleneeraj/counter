@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="counter_caption">TAP TO COUNT</string>
+    <string name="action_increment">Increment</string>
+    <string name="action_decrement">Decrement</string>
+    <string name="action_reset">Reset</string>
+</resources>
