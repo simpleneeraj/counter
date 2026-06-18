@@ -6,6 +6,14 @@ A modern Android counter app built with **Jetpack Compose** and **Material 3**.
   Increment · Decrement · Reset — with smooth animation, haptics, and a Goodreads-inspired theme.
 </p>
 
+## Screenshots
+
+| At zero — controls disabled | Counting — active controls |
+|:---:|:---:|
+| <img src="assets/Screenshot_20260618_114139_Counter.png" width="280" alt="Counter at 0 with decrement and reset disabled" /> | <img src="assets/Screenshot_20260618_114204_Counter.png" width="280" alt="Counter at 99 with green decrement and active reset" /> |
+
+*The `−` and Reset controls dim and disable themselves at 0; the decrement button turns Goodreads-green once counting.*
+
 ## Features
 
 - **Animated counter** — the number slides up on increment and down on decrement with a cross-fade (`AnimatedContent`).
