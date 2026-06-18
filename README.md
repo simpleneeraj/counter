@@ -4,6 +4,10 @@ A modern Android counter app built with **Jetpack Compose** and **Material 3**.
 
 🔗 **Repository:** [github.com/simpleneeraj/counter](https://github.com/simpleneeraj/counter)
 
+[![Download APK](https://img.shields.io/github/v/release/simpleneeraj/counter?label=Download%20APK&logo=android&color=409D69)](https://github.com/simpleneeraj/counter/releases/latest/download/app-release.apk)
+[![Release](https://img.shields.io/github/v/release/simpleneeraj/counter?label=release)](https://github.com/simpleneeraj/counter/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-553B08.svg)](LICENSE)
+
 <p align="center">
   Increment · Decrement · Reset — with smooth animation, haptics, and a Goodreads-inspired theme.
 </p>
