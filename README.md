@@ -2,6 +2,8 @@
 
 A modern Android counter app built with **Jetpack Compose** and **Material 3**.
 
+🔗 **Repository:** [github.com/simpleneeraj/counter](https://github.com/simpleneeraj/counter)
+
 <p align="center">
   Increment · Decrement · Reset — with smooth animation, haptics, and a Goodreads-inspired theme.
 </p>
